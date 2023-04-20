@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiandreassibua
 - 👀 I’m interested in Fullstack Javascript Developer
-- 🌱 I’m currently learning ReactJS, NodeJS, AXIOS, API, ExpressJS, mongoDB, MySQL
+- 🌱 I’m currently learning ReactJS, NodeJS, AXIOS, Rest API, ExpressJS, mongoDB, MySQL
 - 💞️ I’m looking to collaborate on git
 - 📫 How to reach me email me andreassibua@gmail.com or dm on Instagram [@andreassibua_](https://www.instagram.com/andreassibua_/)
 
